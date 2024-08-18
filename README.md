@@ -1,5 +1,4 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e291f3d1ae8d4948b72376a2b216a8ff)](https://app.codacy.com/gh/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/matplotlib)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/numpy)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/pandas)
