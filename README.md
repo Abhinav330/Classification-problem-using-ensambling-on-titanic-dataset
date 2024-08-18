@@ -1,5 +1,7 @@
 # Code Summary
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ab69129c3ac4ccca72cfd61d96c28c3)](https://app.codacy.com/gh/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset?utm_source=github.com&utm_medium=referral&utm_content=Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset&utm_campaign=Badge_Grade)
+
 This Python script is a comprehensive example of a data analysis and machine learning project using the Titanic dataset. It covers various stages, including data loading, preprocessing, visualization, feature engineering, modeling, and generating predictions for a Kaggle competition.
 
 ## Data Loading and Preprocessing
