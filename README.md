@@ -40,3 +40,19 @@ The script builds a machine learning model using several classifiers and a votin
 
 The script generates predictions for the 'test.csv' dataset using the trained model. It also creates a submission file in the required format for the Kaggle competition.
 
+## Referenes:
+- kaggle.com. (n.d.). Titanic - Machine Learning from Disaster. [online] Available at: https://www.kaggle.com/competitions/titanic.
+- Scikit-learn.org. (2012). 1.11. Ensemble methods — scikit-learn 0.22.1 documentation. [online] Available at: https://scikit-learn.org/stable/modules/ensemble.html.
+- scikit-learn.org. (n.d.). sklearn.ensemble.AdaBoostClassifier — scikit-learn 0.22.1 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html.
+- scikit-learn.org. (n.d.). sklearn.ensemble.BaggingClassifier — scikit-learn 0.23.1 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html.
+- scikit-learn.org. (n.d.). 3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier — scikit-learn 0.22.2 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html.
+- Scikit-learn.org. (2009). 3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier — scikit-learn 0.20.3 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html.
+- Scikit-learn (2018). sklearn.ensemble.RandomForestClassifier — scikit-learn 0.20.3 documentation. [online] Scikit-learn.org. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html.
+- Scikit-learn.org. (2019). sklearn.gaussian_process.GaussianProcessClassifier — scikit-learn 0.21.3 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessClassifier.html.
+- scikit-learn. (2024). RidgeClassifierCV. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html [Accessed 18 Aug. 2024].
+- scikit-learn. (n.d.). sklearn.naive_bayes.BernoulliNB. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html.
+- scikit-learn (2019). sklearn.neighbors.KNeighborsClassifier — scikit-learn 0.22.1 documentation. [online] Scikit-learn.org. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html.
+- scikit-learn (2019). sklearn.svm.SVC — scikit-learn 0.22 documentation. [online] Scikit-learn.org. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html.
+- scikit learn (2018). 1.4. Support Vector Machines — scikit-learn 0.20.3 documentation. [online] Scikit-learn.org. Available at: https://scikit-learn.org/stable/modules/svm.html.
+- Scikit-learn.org. (2019). sklearn.tree.DecisionTreeClassifier — scikit-learn 0.22.1 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html.
+- scikit-learn (n.d.). sklearn.discriminant_analysis.LinearDiscriminantAnalysis — scikit-learn 0.24.1 documentation. [online] scikit-learn.org. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html. 
