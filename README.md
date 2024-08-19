@@ -1,11 +1,11 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e291f3d1ae8d4948b72376a2b216a8ff)](https://app.codacy.com/gh/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/matplotlib)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/numpy)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/pandas)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/scikit-learn)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/scipy)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/seaborn)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/matplotlib?color=gold)    
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/numpy?color=green)        
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/pandas?color=yellow)      
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/scikit-learn?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/scipy?color=yellow)       
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset/seaborn?color=silver)     
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset?color=dark%20green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Classification-problem-using-ensambling-on-titanic-dataset)
 
 # Code Summary
